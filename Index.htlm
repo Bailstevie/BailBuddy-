@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BackupBuddy - Your Safety Partner</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="logo">BackupBuddy</div>
+    <nav>
+      <ul>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#pricing">Pricing</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#testimonials">Testimonials</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>BackupBuddy - Your Safety Partner</h1>
+    <p>Stay safe with BackupBuddy's discreet assistance services.</p>
+    <a href="#signup" class="cta-button">Sign Up Now</a>
+    <!-- Optional: Video introduction -->
+    <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </section>
+
+  <!-- Other sections: Features, Pricing, Contact, Testimonials -->
+
+  <footer>
+    <p>&copy; 2024 BackupBuddy. All rights reserved.</p>
+  </footer>
+</body>
+</html>
